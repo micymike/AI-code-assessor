@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Upload, Mic, Play, Download, Send, X, AlertCircle, CheckCircle, Loader } from 'lucide-react';
-import './index.css'
+
 // Card Component
 const Card = ({ children, className = '' }) => (
   <div className={`bg-white shadow-lg rounded-lg ${className}`}>
