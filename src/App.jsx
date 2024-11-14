@@ -1,5 +1,6 @@
 import React from 'react';
-import MainPage from './MainPage';
+
+import MainPage from './components/MainPage';
 import './index.css'
 const App = () => {
   return (
